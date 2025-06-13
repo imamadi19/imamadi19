@@ -14,7 +14,7 @@
   <i>My Waifu 😚</i>
 </p>
 
-![](https://profile-counter.glitch.me/imamadi19/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/imamadi19/count.svg)
 
 ## 🪵 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/adi.cug) [![WhatsApp](https://img.shields.io/badge/WhatsApp-222222?style=for-the-badge&logo=WhatsApp&logoColor=25D366)](https://wa.me/6289504585790) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/@adii281) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://youtube.com/@channel_adidev) [![Spotify](https://img.shields.io/badge/Spotify-222222?style=for-the-badge&logo=Spotify&logoColor=1ED760)](https://open.spotify.com/user/31qem3mo3p2x7yasj4owtszd3wli?si=JyKLv_9-ReCamKHvVlouLA)

@@ -45,14 +45,7 @@
 
 </p>
 
-<p align="center">
-<a href="https://.com/githubprof"><img title="YouTube" src="https://img.shields.io/badge/Adi-OfficialL-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/UCXzxFx9pitmYFLJo4nHrRPg"><img title="YouTube" src="https://img.shields.io/badge/Youtube AdiOfficial-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-
-<p align="center">
-<a href="https://wa.me/6289504585790"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://instagram.com/adi.cug"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-</p>
+## 🪵 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi.cug) [![WhatsApp](https://img.shields.io/badge/WhatsApp-222222?style=for-the-badge&logo=WhatsApp&logoColor=25D366)](https://wa.me/6289504585790) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@channel_adidev)
 
 ### <==========================================>

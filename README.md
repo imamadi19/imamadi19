@@ -1,8 +1,18 @@
-### Hii... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+<div align="center">
+<a href="https://instagram.com/adi.cug">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Imam+Adi;I+am+is+a+Backend+Developer👋"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
-<img src="IMG-20210618-WA0001.jpg" alt="AdiOfficialL">
-
-### <========== KNOW MORE ABOUT ME ==========>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/84767049?v=4" alt="Nico Robin😍" />
+  <br />
+  <i>My Waifu 😚</i>
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=imamadi19)
 
